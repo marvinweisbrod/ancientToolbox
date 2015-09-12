@@ -1,0 +1,63 @@
+#Tabs
+itemGroup.tabAncTB=Ancient Toolbox
+
+#Items
+item.item_handle.name=Handle
+item.item_seal1.name=Empty Seal
+item.item_seal2.name=Weak Seal
+item.item_seal2zom.name=Sealed Zombie
+item.item_seal2skel.name=Sealed Skeleton
+item.item_seal3.name=Ordinary Seal
+item.item_seal3end.name=Sealed Enderman
+item.item_seal3spi.name=Sealed Spider
+item.item_seal4.name=Strong Seal
+item.item_seal4wit.name=Sealed Wither Skeleton
+item.item_seal4bla.name=Sealed Blaze
+item.item_seal4pig.name=Sealed Zombie Pigman
+item.item_soul.name=Soul
+item.item_soulPure.name=Pure Soul
+item.item_soulVessel.name=Soul Vessel
+item.item_switchegg.name=Unstable Creature
+
+item.tool_reinfAxe.name=Dense Stone Axe
+item.tool_reinfPick.name=Dense Stone Pickaxe
+item.tool_reinfShovel.name=Dense Stone Shovel
+item.tool_reinfSword.name=Dense Stone Sword
+
+item.tool_gluttony1Pick.name=Hungry Dwarf
+item.tool_gluttony1Shovel.name=Hungry Human
+item.tool_gluttony2Pick.name=Starving Dwarf
+item.tool_gluttony2Shovel.name=Starving Human
+
+item.tool_para1Pick.name=Parasitic Pick I
+item.tool_para1Shovel.name=Parasitic Shovel I
+item.tool_para2Pick.name=Parasitic Pick II
+item.tool_para2Shovel.name=Parasitic Shovel II
+
+item.tool_switch1Sword.name=Unstable Fighter
+item.tool_switch1Axe.name=Unstable Fighter
+item.tool_switch1Pick.name=Unstable Builder
+item.tool_switch1Shovel.name=Unstable Builder
+
+item.tool_switch2Sword.name=Unstable Gladiator
+item.tool_switch2Axe.name=Unstable Gladiator
+item.tool_switch2Pick.name=Unstable Digger
+item.tool_switch2Shovel.name=Unstable Digger
+
+item.tool_switch3Sword.name=Unstable Champion
+item.tool_switch3Axe.name=Unstable Champion
+item.tool_switch3Pick.name=Unstable Miner
+item.tool_switch3Shovel.name=Unstable Miner
+
+item.tool_paraswitch1Pick.name=Unstable Parasite I
+item.tool_paraswitch1Shovel.name=Unstable Parasite I
+item.tool_paraswitch2Pick.name=Unstable Parasite II
+item.tool_paraswitch2Shovel.name=Unstable Parasite II
+
+item.tool_gluttyswitch1Pick.name=Unstable Chimera I
+item.tool_gluttyswitch1Shovel.name=Unstable Chimera I
+item.tool_gluttyswitch2Pick.name=Unstable Chimera II
+item.tool_gluttyswitch2Shovel.name=Unstable Chimera II
+
+#Blocks
+tile.block_reinfCobble.name=Compressed Stone

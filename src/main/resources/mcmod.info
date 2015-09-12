@@ -1,0 +1,16 @@
+[
+{
+  "modid": "anctb",
+  "name": "Ancient Toolbox",
+  "description": "Adds several interesting tools.",
+  "version": "0.9.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Relescent", "Zashino"],
+  "credits": "Thanks to MrCrayfish and RelentlessSentinel!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
